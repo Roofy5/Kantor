@@ -9,7 +9,14 @@
     <Import_RootNamespace>Kantor</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)AdditionalInformation.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)City.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Currency.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CurrencyExchange.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\DownloadData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\HTMLParser.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\WebDownloader.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="$(MSBuildThisFileDirectory)GettingStarted.Xamarin" />

@@ -17,7 +17,12 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Kantor", "Kantor\Kantor\Kan
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Kantor\Kantor\Kantor.projitems*{052d8891-d6c6-4333-b8a1-c73b93936b33}*SharedItemsImports = 4
+		Kantor\Kantor\Kantor.projitems*{304e47b0-225b-4e9e-9913-45a3c7645ee0}*SharedItemsImports = 4
+		Kantor\Kantor\Kantor.projitems*{4db7669e-d7a3-42d1-9829-2d85a38a65fc}*SharedItemsImports = 4
+		Kantor\Kantor\Kantor.projitems*{504fe4b2-2d7b-44ff-b331-acbf35e96ded}*SharedItemsImports = 4
 		Kantor\Kantor\Kantor.projitems*{bb8fcb93-fb9e-4a10-b9ea-39a7da41fc50}*SharedItemsImports = 13
+		Kantor\Kantor\Kantor.projitems*{da4963df-a599-47e8-bedc-374d702e6cf8}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
